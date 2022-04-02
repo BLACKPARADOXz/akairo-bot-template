@@ -6,10 +6,10 @@ Discord-akairo modülü kullanılarak yapılan, discord botu yapmak isteyenler i
 ## Bot komutları
 Bu şablonda şu komutlar mevcuttur:
 
-#Normal komutlar
+> Normal komutlar
 - ping
 
-#Slash komutlar
+> Slash komutlar
 - test
 
 Burda gördüğünüz taslağı kullanarak kendiniz komut ekleyebilirsiniz:

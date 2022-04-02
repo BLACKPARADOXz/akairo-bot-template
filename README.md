@@ -4,7 +4,13 @@ Discord-akairo modülü kullanılarak yapılan, discord botu yapmak isteyenler i
 [Novachrono](https://github.com/BLACKPARADOXz) tarafından yapıldı.
 
 ## Bot komutları
-Bu şablonda şu komutlar mevcuttur: ``ping`` ``toplama``
+Bu şablonda şu komutlar mevcuttur:
+
+#Normal komutlar
+- ping
+
+#Slash komutlar
+- test
 
 Burda gördüğünüz taslağı kullanarak kendiniz komut ekleyebilirsiniz:
 

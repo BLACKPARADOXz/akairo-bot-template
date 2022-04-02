@@ -1,0 +1,10 @@
+bot: 
+ token: "SÜPER GİZLİ TOKENİN"
+ prefix: "!"
+ durum: "online" #online idle invisible dnd koyulabilir
+ aktivite: "PLAYING" #PLAYING STREAMING LISTENING WATCHING CUSTOM_STATUS COMPETING 'den biri koyulabilir
+ aktiviteAdı: "seninle"
+ sahipler:
+  - "KULLANICI ID 1"
+  - "KULLANICI ID 2"
+ 

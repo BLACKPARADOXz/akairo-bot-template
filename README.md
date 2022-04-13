@@ -17,8 +17,8 @@ Burda gördüğünüz taslağı kullanarak kendiniz komut ekleyebilirsiniz:
 ```
 const { Command } = require('discord-akairo');
 
-export default class Komut_Adı extends Command {
-    public constructor() {
+module.exports = class extends Command {
+    constructor() {
         super('Komut_Adı', {
             aliases: ['Gerçek_Komut_Adı']
         });
